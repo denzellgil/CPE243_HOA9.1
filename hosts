@@ -1,0 +1,8 @@
+[manage_node]
+192.168.56.5
+
+[control_node]
+192.168.56.3
+
+[localhost]
+10.0.2.15
